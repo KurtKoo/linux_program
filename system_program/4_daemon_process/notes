@@ -1,0 +1,3 @@
+//we can use the "nohup" command to make our normal program run like a daemon process
+
+nohup bin_file &    //& enables the bin_file to run in the background
