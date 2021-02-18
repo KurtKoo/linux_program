@@ -1,0 +1,6 @@
+this project only contains the driver code which will be compiled into the executable files.
+
+reason:
+	1.in need of the source code of the linux kernel
+	2.the executable files after cross compiled should be run on the target board instead of the pc
+	3.this project is only created for learning how to create a driver program
